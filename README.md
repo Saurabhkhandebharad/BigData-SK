@@ -1,6 +1,6 @@
 # BigData - Saurabh Khandebharad
 
-# E - Commerce Analytics and Big Data Processing (End-To-End Group Project)
+# E - Commerce Analytics and Big Data Processing (End-To-End Project)
 Guidance by - Pradeep Tripathi 
 
 KAGGLE DATASET: _https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store_
